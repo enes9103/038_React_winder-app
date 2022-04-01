@@ -1,0 +1,21 @@
+.foot {
+    width: 40.5rem;
+    font-size: 1.5rem;
+    padding-top: .4rem;
+    padding-bottom: .4rem;
+    background-color:whitesmoke;
+    border: 1px solid purple;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    .design {
+        height: 2rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .after {
+        color: purple;
+    }
+}

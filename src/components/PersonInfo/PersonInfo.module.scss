@@ -1,0 +1,33 @@
+.card {
+    width: 40rem;
+    height: 25rem;
+    margin-top: -11rem;
+    background-color:ivory;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+    box-shadow: 5px 5px rgba(110, 109, 110, 0.068),
+      5px 5px rgba(104, 97, 101, 0.2);
+
+    .navbar {
+        width: 100%;
+        height: 7rem;
+        background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+        border-bottom: .5px solid gray;
+        border-radius: 7px 7px 0 0;
+    }
+    .image {
+        border-radius: 50%;
+        border: 4px solid white;
+        margin-top: -6rem;
+    }
+    .text1 {
+        margin-top: 2rem;
+        font-size: 1.5rem;
+    }
+    .text2 {
+        margin-top: .5rem;
+        font-size: 1.5rem;
+    }
+}

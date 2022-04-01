@@ -1,0 +1,18 @@
+.svgcontainer {
+    width: 100%;
+    margin-top: 1rem;
+    display: flex;
+    justify-content:space-evenly;
+    .svg {
+        height: 4rem;
+        border-radius: 50%;
+        border: 1px solid lightgray;
+        padding: .5rem;
+        background-color: white;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
+}
