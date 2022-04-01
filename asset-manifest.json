@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/038_React_winder-app/static/css/main.cc8e2e98.css",
+    "main.js": "/038_React_winder-app/static/js/main.a18af9e7.js",
+    "static/media/cw.svg": "/038_React_winder-app/static/media/cw.8221c6a7e538444ba92f392c585f21bd.svg",
+    "static/media/map.svg": "/038_React_winder-app/static/media/map.336e15d4f00145917c545459d9b3ae33.svg",
+    "static/media/growing-up-woman.svg": "/038_React_winder-app/static/media/growing-up-woman.227fa822527b524dc0b75cbd28b6acd6.svg",
+    "static/media/growing-up-man.svg": "/038_React_winder-app/static/media/growing-up-man.14fd1e78062968afa00c7584c2832864.svg",
+    "static/media/woman.svg": "/038_React_winder-app/static/media/woman.197fd20df6b03e7c0ef058000ce19b3c.svg",
+    "static/media/man.svg": "/038_React_winder-app/static/media/man.a7e1ebbc45a81a8309c19a765809843d.svg",
+    "static/media/mail.svg": "/038_React_winder-app/static/media/mail.7252a11496647aa762e820a5627c43fe.svg",
+    "static/media/design.svg": "/038_React_winder-app/static/media/design.7b0565e4eb7f23fb06fd3a54211abc4b.svg",
+    "static/media/padlock.svg": "/038_React_winder-app/static/media/padlock.04f6dd433bd1ccd992916e362d9933d7.svg",
+    "static/media/phone.svg": "/038_React_winder-app/static/media/phone.0e84da6a8f66597d47b3b43212dbd8e5.svg",
+    "index.html": "/038_React_winder-app/index.html",
+    "main.cc8e2e98.css.map": "/038_React_winder-app/static/css/main.cc8e2e98.css.map",
+    "main.a18af9e7.js.map": "/038_React_winder-app/static/js/main.a18af9e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc8e2e98.css",
+    "static/js/main.a18af9e7.js"
+  ]
+}
