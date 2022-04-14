@@ -1,5 +1,6 @@
+
 .foot {
-    width: 40.5rem;
+    width: 60%;
     font-size: 1.5rem;
     padding-top: .4rem;
     padding-bottom: .4rem;
@@ -10,6 +11,11 @@
     justify-content: center;
     align-items: center;
     margin-top: 2rem;
+    margin-bottom: 2rem;
+    .before{
+        display: inline;
+        text-align: left;
+    }
     .design {
         height: 2rem;
         margin-left: 1rem;
@@ -17,5 +23,6 @@
     }
     .after {
         color: purple;
+        display: inline;
     }
 }

@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import styling from "./Navbar.module.scss";
 import cw from "../../assets/cw.svg";
 
@@ -9,8 +9,7 @@ const Navbar = () => {
         <img src={cw} alt="clarusway" className={styling.image} />
       </nav>
     </div>
-  )
-}
+  );
+};
 
-export default Navbar
-
+export default Navbar;
